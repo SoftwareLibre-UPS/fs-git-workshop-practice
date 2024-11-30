@@ -1,5 +1,8 @@
 
-# Práctica de Git - Software Libre
+# Git & GitHub - Parte Práctica
+
+[![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
 Bienvenidos a la **parte práctica del curso de Git de la UPS**. Esta práctica está diseñada para aplicar los conceptos fundamentales de Git que hemos estudiado, incluyendo ramas, manejo de conflictos, commits, rebase, y mucho más. ¡Sigue las instrucciones paso a paso!
 
@@ -191,11 +194,3 @@ Bienvenidos a la **parte práctica del curso de Git de la UPS**. Esta práctica 
 2. Verifica que los commits sean consistentes y que no queden claves o archivos no deseados en el historial.
 
 ¡Felicidades, has completado la práctica de Git! 🎉
-``` 
-
-### Características del README:
-1. **Estructura clara:** Cada paso está organizado por partes con numeración y subtítulos.
-2. **Comandos específicos:** Se incluyen ejemplos de comandos reales.
-3. **Mensajes personalizados:** Mensajes de commit claros para mantener un historial limpio.
-4. **Práctica colaborativa:** Incluye acciones colaborativas como forks y conflictos.
-
