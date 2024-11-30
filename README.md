@@ -194,3 +194,4 @@ Bienvenidos a la **parte práctica del curso de Git de la UPS**. Esta práctica 
 2. Verifica que los commits sean consistentes y que no queden claves o archivos no deseados en el historial.
 
 ¡Felicidades, has completado la práctica de Git! 🎉
+
